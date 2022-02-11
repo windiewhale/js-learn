@@ -2,9 +2,9 @@ let myProfile = {
     "username": "balnarabigefial",
     "displayName": "Bálnára Bige Fial",
     "friends": [ 
-        { "numberOfFriends": 670, "pendingRequests": 21, "lastConnection": "Péter Sz." },    
+        {"numberOfFriends": 670, "pendingRequests": 21, "lastConnection": "Péter Sz." },    
+        {"whatmore": "whoknows", "isFinished": false}
     ],
-
     "likes": [
         { "lastLikedPage": "Sirius Teaház", "serviceType": "tea house", "address": "Bródy Sándor u. 13, Bp, 1088", "openingHours": "12:00-22:00" },
         { "firstLikedFilm": "The Life Aquatic with Steve Zissou", "releaseYear": 2004, "director": "Wes Anderson" },
